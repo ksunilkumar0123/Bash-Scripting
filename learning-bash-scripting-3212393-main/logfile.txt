@@ -1,0 +1,12 @@
+total 45
+-rw-r--r-- 1 chocl 197609   635 Apr  3 15:19 CONTRIBUTING.md
+drwxr-xr-x 1 chocl 197609     0 Apr  3 15:19 dir1/
+drwxr-xr-x 1 chocl 197609     0 Apr  3 15:19 dir2/
+drwxr-xr-x 1 chocl 197609     0 Apr  3 15:19 dir3/
+-rw-r--r-- 1 chocl 197609  6648 Apr  3 15:19 LICENSE
+-rw-r--r-- 1 chocl 197609     0 Jul  8 13:55 logfile.txt
+-rw-r--r-- 1 chocl 197609 12577 Apr  3 15:19 lorem.txt
+-rw-r--r-- 1 chocl 197609   617 Apr  3 15:19 NOTICE
+-rw-r--r-- 1 chocl 197609  1671 Apr  3 15:19 README.md
+-rw-r--r-- 1 chocl 197609 11106 Apr  3 15:19 Snippets.md
+drwxr-xr-x 1 chocl 197609     0 Apr  3 15:19 Solutions/
